@@ -1,0 +1,6 @@
+a_pandas_ex_apply_ignore_exceptions
+numpy
+pandas
+psutil
+shortpath83
+subprocess_alive
